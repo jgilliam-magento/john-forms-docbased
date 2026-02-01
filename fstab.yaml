@@ -1,5 +1,6 @@
 mountpoints:
 <<<<<<< HEAD
+<<<<<<< HEAD
   /:
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
@@ -7,3 +8,6 @@ mountpoints:
 =======
   /: https://adobe.sharepoint.com/:f:/r/sites/CommercialCustomerSuccessGroup/Shared%20Documents/Customer%20Advisory%20Files/AEM/AEM-Offerings/Technical%20Onboarding/AEM%20Forms%20for%20Marketing-Getting%20started/document-based%20forms%20authoring%20demo%20files/wefinance?csf=1&web=1&e=Wt37WW
 >>>>>>> 5397f94 (Add mountpoints configuration to fstab.yaml)
+=======
+  /: https://adobe.sharepoint.com/sites/CommercialCustomerSuccessGroup/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCommercialCustomerSuccessGroup%2FShared%20Documents%2FCustomer%20Advisory%20Files%2FAEM%2FAEM%2DOfferings%2FTechnical%20Onboarding%2FAEM%20Forms%20for%20Marketing%2DGetting%20started%2Fdocument%2Dbased%20forms%20authoring%20demo%20files%2Fwefinance&viewid=7c50f1d6%2Dd160%2D4029%2D8511%2Ddd27a6f78ba1
+>>>>>>> 24bd108 (Update SharePoint link in fstab.yaml)
